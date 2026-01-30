@@ -1,117 +1,276 @@
+<div align="center">
+
 # Hi 👋, I'm Riya Bansal
 
-<div align="center">
-  
-## Full Stack Engineer | MERN Stack Developer | Problem Solver
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=E91E63&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;MERN+Stack+Developer;Problem+Solver;Hackathon+Enthusiast+%F0%9F%8F%86;Open+Source+Contributor" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=Riyaban583&label=Profile%20views&color=E91E63&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Riyaban583&label=Profile%20Views&color=E91E63&style=for-the-badge" alt="Profile views" />
 
 </div>
 
 ---
 
+<img align="right" alt="Coding Girl" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
 ## 🚀 About Me
 
-- 💼 Currently working as **Full Stack Engineer Intern @ Curious Team Learning**
+- 🔭 Currently working as **Full Stack Engineer Intern @ Curious Team Learning**
 - 🌱 Learning **Angular, Three.js, WebRTC & Advanced System Design**
 - 👯 Looking to collaborate on **Open Source MERN Stack Projects**
-- 💼 Portfolio: [riya-portfolio-sncp.vercel.app](https://riya-portfolio-sncp.vercel.app)
+- 💼 Portfolio: **[riya-portfolio-sncp.vercel.app](https://riya-portfolio-sncp.vercel.app)**
 - 💬 Ask me about **MERN Stack, Socket.IO, Real-time Applications**
 - 📧 Reach me: **riyabnsl2004@gmail.com**
 - ⚡ Fun fact: **Solved 100+ DSA problems & participated in 50+ hackathons!**
 
-<div align="right">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman coding" width="300" />
-</div>
+<br clear="both"/>
 
 ---
 
-## 🛠️ Tech Stack & Tools:
+## 🎨 Tech Stack & Tools:
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="50" height="50"/>
+<div align="center">
+
+### Frontend Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,js,ts,html,css,tailwind,redux,threejs" />
 </p>
+
+### Backend Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,socketio,graphql" />
+</p>
+
+### Databases & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,aws" />
+</p>
+
+### Tools & Others
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,canva,linux" />
+</p>
+
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python" />
+</p>
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats:
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Riyaban583&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E91E63&icon_color=E91E63&text_color=FFF" alt="GitHub Stats" />
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Riyaban583&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E91E63&icon_color=E91E63&text_color=FFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+</td>
+<td width="50%">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riyaban583&theme=radical&hide_border=true&background=0D1117&ring=E91E63&fire=E91E63&currStreakLabel=E91E63" alt="GitHub Streak" />
 
-</div>
+</td>
+</tr>
+</table>
 
 ### 📈 Most Used Languages
 
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-45.20%25-yellow?style=flat-square&logo=javascript&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-16.85%25-purple?style=flat-square&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-14.75%25-orange?style=flat-square&logo=html5&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-12.40%25-blue?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-8.50%25-blue?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-2.30%25-red?style=flat-square&logo=openjdk&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyaban583&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E91E63&text_color=FFF&langs_count=10" alt="Top Languages" />
 
 </div>
 
 <div align="center">
-  
-| 🌟 **Total Stars Earned:** 22+ |
-|:---:|
-| 💻 **Total Commits (last year):** 400+ |
-| 🔀 **Total PRs:** 15 |
-| 🐛 **Total Issues:** 4 |
-| 🎯 **Contributed to (last year):** 12 |
+
+| 🌟 | **Stats** | **Count** |
+|:---:|:---|:---:|
+| ⭐ | **Total Stars Earned** | 22+ |
+| 💻 | **Total Commits (last year)** | 400+ |
+| 🔀 | **Total PRs** | 15 |
+| 🐛 | **Total Issues** | 4 |
+| 🎯 | **Contributed to (last year)** | 12 |
 
 </div>
 
+---
+
+## 🏆 GitHub Trophies
+
 <div align="center">
-  
+
+<img src="https://github-profile-trophy.vercel.app/?username=Riyaban583&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riyaban583&theme=react-dark&bg_color=0D1117&color=E91E63&line=E91E63&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 
 </div>
 
 ---
 
-## 🌐 Connect with me:
+## 🔥 Featured Projects
 
-<p align="center">
-<a href="https://linkedin.com/in/riyabansal405" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/riyabansal" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="https://github.com/Riyaban583" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://instagram.com/riyabansal" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://leetcode.com/u/Riyabnsl123/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-<a href="mailto:riyabnsl2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🍕 FoodHub - Food Delivery Platform</h3>
+<div align="center">  
+<a href="https://github.com/Riyaban583/foodhub" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Riyaban583&repo=foodhub&theme=radical&hide_border=true&bg_color=0D1117&title_color=E91E63&icon_color=E91E63&text_color=FFF" alt="FoodHub" />
+</a>
+<p><strong>Tech Stack:</strong> React.js, Node.js, Express.js, MongoDB</p>
+<p>A full-stack food delivery application with secure authentication, cart management, and order processing</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">🎨 ThumbCraft - AI Thumbnail Generator</h3>
+<div align="center">
+<a href="https://github.com/Riyaban583/thumbcraft" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Riyaban583&repo=thumbcraft&theme=radical&hide_border=true&bg_color=0D1117&title_color=E91E63&icon_color=E91E63&text_color=FFF" alt="ThumbCraft" />
+</a>
+<p><strong>Tech Stack:</strong> React.js, Next.js, Node.js, Gemini AI API</p>
+<p>AI-powered platform for generating professional thumbnails from text prompts</p>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">♟️ ChessConnect - Real-Time Chess</h3>
+<div align="center">
+<a href="https://github.com/Riyaban583/chessconnect" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Riyaban583&repo=chessconnect&theme=radical&hide_border=true&bg_color=0D1117&title_color=E91E63&icon_color=E91E63&text_color=FFF" alt="ChessConnect" />
+</a>
+<p><strong>Tech Stack:</strong> React.js, Node.js, Socket.IO, MongoDB</p>
+<p>Multiplayer chess application with real-time gameplay and move synchronization</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">🗳️ VoteChain - Blockchain Voting</h3>
+<div align="center">
+<a href="https://github.com/Riyaban583/votechain" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Riyaban583&repo=votechain&theme=radical&hide_border=true&bg_color=0D1117&title_color=E91E63&icon_color=E91E63&text_color=FFF" alt="VoteChain" />
+</a>
+<p><strong>Tech Stack:</strong> React.js, Solidity, Web3.js, Ethereum</p>
+<p>Blockchain-based secure voting solution emphasizing transparency and security</p>
+</div>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎯 Competitive Programming
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Riyabnsl123?theme=dark&font=Karma&ext=heatmap&border=0" alt="LeetCode Stats" width="90%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Riyaban583&theme=radical&hide_border=true&bg_color=0D1117&title_color=E91E63&text_color=FFF&layout=compact" alt="Coding Activity" />
+
+</div>
+
+---
+
+## 🏅 Achievements & Certifications
+
+<div align="center">
+
+| 🏆 | **Achievement** | **Details** |
+|:---:|:---|:---|
+| 👨‍💼 | **Technical Head - Placement Cell, RTU Kota** | Leading recruitment drives & student placement coordination |
+| 🥇 | **Top 10 - Unstoppable Hackathon (LNMIIT Jaipur)** | Recognized for innovative problem-solving & team collaboration |
+| 🥈 | **Top 22 - Paranox Hackathon (Delhi)** | Built VoteChain: Blockchain-based voting solution |
+| 🎖️ | **Healthcare Innovation - Reckon Hackathon (Jodhpur)** | Developed comprehensive healthcare platform |
+| 💪 | **50+ Hackathons Participation** | Extensive experience in rapid prototyping on Unstop |
+| 📈 | **100+ DSA Problems Solved** | Active competitive programmer on LeetCode |
+
+</div>
+
+---
+
+## 📫 Connect with Me:
+
+<div align="center">
+
+<a href="https://linkedin.com/in/riyabansal405" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Riyaban583" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://leetcode.com/u/Riyabnsl123/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://riya-portfolio-sncp.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-E91E63?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:riyabnsl2004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://twitter.com/riyabansal" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://instagram.com/riyabansal" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
-  
-### 💖 Thanks for visiting! Show some ❤️ by starring some repositories!
+
+### 📊 Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Riyaban583&theme=radical" alt="Profile Summary" width="100%" />
+
+<table>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Riyaban583&theme=radical" alt="Repos per Language" />
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Riyaban583&theme=radical" alt="Most Commit Language" />
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Riyaban583&theme=radical" alt="Stats" />
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Riyaban583&theme=radical" alt="Productive Time" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=120&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%" />
+
+### 💖 Show some love by starring ⭐ some repositories!
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 </div>
