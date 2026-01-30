@@ -117,77 +117,6 @@
 
 ---
 
-## 🔥 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🍕 FoodHub - Food Delivery Platform</h3>
-<div align="center">  
-<a href="https://github.com/Riyaban583/foodhub" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Riyaban583&repo=foodhub&theme=radical&hide_border=true&bg_color=0D1117&title_color=E91E63&icon_color=E91E63&text_color=FFF" alt="FoodHub" />
-</a>
-<p><strong>Tech Stack:</strong> React.js, Node.js, Express.js, MongoDB</p>
-<p>A full-stack food delivery application with secure authentication, cart management, and order processing</p>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">🎨 ThumbCraft - AI Thumbnail Generator</h3>
-<div align="center">
-<a href="https://github.com/Riyaban583/thumbcraft" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Riyaban583&repo=thumbcraft&theme=radical&hide_border=true&bg_color=0D1117&title_color=E91E63&icon_color=E91E63&text_color=FFF" alt="ThumbCraft" />
-</a>
-<p><strong>Tech Stack:</strong> React.js, Next.js, Node.js, Gemini AI API</p>
-<p>AI-powered platform for generating professional thumbnails from text prompts</p>
-</div>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<h3 align="center">♟️ ChessConnect - Real-Time Chess</h3>
-<div align="center">
-<a href="https://github.com/Riyaban583/chessconnect" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Riyaban583&repo=chessconnect&theme=radical&hide_border=true&bg_color=0D1117&title_color=E91E63&icon_color=E91E63&text_color=FFF" alt="ChessConnect" />
-</a>
-<p><strong>Tech Stack:</strong> React.js, Node.js, Socket.IO, MongoDB</p>
-<p>Multiplayer chess application with real-time gameplay and move synchronization</p>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">🗳️ VoteChain - Blockchain Voting</h3>
-<div align="center">
-<a href="https://github.com/Riyaban583/votechain" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Riyaban583&repo=votechain&theme=radical&hide_border=true&bg_color=0D1117&title_color=E91E63&icon_color=E91E63&text_color=FFF" alt="VoteChain" />
-</a>
-<p><strong>Tech Stack:</strong> React.js, Solidity, Web3.js, Ethereum</p>
-<p>Blockchain-based secure voting solution emphasizing transparency and security</p>
-</div>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🎯 Competitive Programming
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/Riyabnsl123?theme=dark&font=Karma&ext=heatmap&border=0" alt="LeetCode Stats" width="90%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Riyaban583&theme=radical&hide_border=true&bg_color=0D1117&title_color=E91E63&text_color=FFF&layout=compact" alt="Coding Activity" />
-
-</div>
-
----
 
 ## 🏅 Achievements & Certifications
 
@@ -225,13 +154,6 @@
 <a href="mailto:riyabnsl2004@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://twitter.com/riyabansal" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://instagram.com/riyabansal" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
 </div>
 
 ---
