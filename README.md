@@ -59,23 +59,7 @@
 
 ---
 
-## 📊 GitHub Stats:
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Riyaban583&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E91E63&icon_color=E91E63&text_color=FFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Riyaban583&theme=radical&hide_border=true&background=0D1117&ring=E91E63&fire=E91E63&currStreakLabel=E91E63" alt="GitHub Streak" />
-
-</td>
-</tr>
-</table>
 
 ### 📈 Most Used Languages
 
@@ -96,14 +80,6 @@
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Riyaban583&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-
-</div>
 
 ---
 
