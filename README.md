@@ -32,22 +32,22 @@
 
 ### Frontend Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,js,ts,html,css,tailwind,redux,threejs" />
+<img src="https://skillicons.dev/icons?i=react,nextjs, js,ts,html,css,tailwind,threejs" />
 </p>
 
 ### Backend Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,socketio,graphql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,socketio" />
 </p>
 
 ### Databases & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,aws" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
 ### Tools & Others
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,canva,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,canva,linux" />
 </p>
 
 ### Programming Languages
