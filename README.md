@@ -32,7 +32,7 @@
 
 ### Frontend Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs, js,ts,html,css,tailwind,threejs" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux,threejs" />
 </p>
 
 ### Backend Technologies
