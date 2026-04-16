@@ -81,15 +81,6 @@
 
 ---
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riyaban583&theme=react-dark&bg_color=0D1117&color=E91E63&line=E91E63&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
-
-</div>
 
 ---
 
