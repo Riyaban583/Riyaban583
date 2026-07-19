@@ -15,12 +15,12 @@
 ## 🚀 About Me
 
 - 🔭 Currently working as **Full Stack Engineer Intern @ Curious Team Learning**
-- 🌱 Learning **Angular, Three.js, WebRTC & Advanced System Design**
+- 🌱 Learning **Firebase, Docker, DevOps, WebRTC & Advanced System Design**
 - 👯 Looking to collaborate on **Open Source MERN Stack Projects**
 - 💼 Portfolio: **[riya-portfolio-sncp.vercel.app](https://riya-portfolio-sncp.vercel.app)**
 - 💬 Ask me about **MERN Stack, Socket.IO, Real-time Applications**
 - 📧 Reach me: **riyabnsl2004@gmail.com**
-- ⚡ Fun fact: **Solved 100+ DSA problems & participated in 50+ hackathons!**
+- ⚡ Fun fact: **Solved 400+ DSA problems & participated in 50+ hackathons!**
 
 <br clear="both"/>
 
