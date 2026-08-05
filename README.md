@@ -96,7 +96,7 @@
 | 🥈 | **Top 22 - Paranox Hackathon (Delhi)** | Built VoteChain: Blockchain-based voting solution |
 | 🎖️ | **Healthcare Innovation - Reckon Hackathon (Jodhpur)** | Developed comprehensive healthcare platform |
 | 💪 | **50+ Hackathons Participation** | Extensive experience in rapid prototyping on Unstop |
-| 📈 | **400+ DSA Problems Solved** | Active competitive programmer on LeetCode |
+| 📈 | **401+ DSA Problems Solved** | Active competitive programmer on LeetCode |
 
 </div>
 
