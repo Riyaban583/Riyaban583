@@ -20,7 +20,7 @@
 - 💼 Portfolio: **[riya-portfolio-sncp.vercel.app](https://riya-portfolio-sncp.vercel.app)**
 - 💬 Ask me about **MERN Stack, Socket.IO, Real-time Applications**
 - 📧 Reach me: **riyabnsl2004@gmail.com**
-- ⚡ Fun fact: **Solved 416+ DSA problems & participated in 50+ hackathons!**
+- ⚡ Fun fact: **Solved 417+ DSA problems & participated in 50+ hackathons!**
 
 <br clear="both"/>
 
